@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "email": "gustavonobrega134@gmail.com",
+      "password": "$2a$10$/fqUaE1OvauT/kj1A4BrtuLQwSz.MO.VH3flphR4LQB7Psb3otygW",
+      "id": 1
+    },
+    {
+      "email": "gustavonobrega37@gmail.com",
+      "password": "$2a$10$5ve1JLfpzuBlZkijci1v6utlpF.W/onv38rbc.hK/0zVieQhd9WCS",
+      "id": 2
+    }
+  ],
+  "journals": [
+    {
+      "id": "2842a960-e70a-11ed-8b39-2b5c3998b1c3",
+      "content": "voltou??",
+      "createdAt": "2023-04-20 00:50:24.313002",
+      "updatedAt": "2023-04-20 00:50:24.313002",
+      "userId": 1
+    },
+    {
+      "id": "2e4beb50-e70a-11ed-8b39-2b5c3998b1c3",
+      "content": "aqui está normal ",
+      "createdAt": "2023-04-21 00:50:24.313002",
+      "updatedAt": "2023-04-21 00:50:24.313002",
+      "userId": 1
+    },
+    {
+      "id": "4b3d9650-e70a-11ed-8b39-2b5c3998b1c3",
+      "content": "rapazzzz",
+      "createdAt": "2023-04-27 00:50:24.313002",
+      "updatedAt": "2023-04-27 00:50:24.313002",
+      "userId": 1
+    }
+  ]
+}
